@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Predictor</string>
+    <string name="ask_again">Спросить Ещё Раз</string>
+    <string name="it_is_certain">Это несомненно.</string>
+    <string name="it_is_decidedly_so">Это однозначно так.</string>
+    <string name="without_a_doubt">Без сомнения.</string>
+    <string name="yes_definitely">Да, определённо.</string>
+    <string name="you_may_rely_on_it">Вы можете положиться на это.</string>
+    <string name="as_i_see_it_yes">Насколько я понимаю, да.</string>
+    <string name="most_likely">Вероятнее всего.</string>
+    <string name="outlook_good">Перспективы хорошие.</string>
+    <string name="yes">Да.</string>
+    <string name="signs_point_to_yes">Знаки говорят, что да.</string>
+    <string name="yep">Да!</string>
+    <string name="absolutely">Абсолютно!</string>
+    <string name="you_bet">Ещё бы!</string>
+    <string name="confirmed">Подтверждаю.</string>
+    <string name="don_t_count_on_it">Не рассчитывай на это.</string>
+    <string name="my_reply_is_no">Мой ответ - нет.</string>
+    <string name="my_sources_say_no">Мои источники говорят, что нет.</string>
+    <string name="outlook_not_so_good">Перспективы не очень хорошие.</string>
+    <string name="very_doubtful">Очень сомнительно.</string>
+    <string name="naw">Нет.</string>
+    <string name="i_ve_got_a_bad_feeling_about_this">У меня плохое предчувствие по этому поводу…</string>
+    <string name="reply_hazy_try_again">Ответ туманный, попробуйте ещё раз.</string>
+    <string name="ask_again_later">Спросите ещё раз позже.</string>
+    <string name="better_not_tell_you_now">Лучше не говорить тебе сейчас.</string>
+    <string name="cannot_predict_now">Сейчас не могу предсказать.</string>
+    <string name="concentrate_and_ask_again">Сконцентрируйтесь и спросите еще раз.</string>
+    <string name="impossible_to_see_the_future_is">Будущее невозможно увидеть.</string>
+    <string name="_404_answer_not_found">404 Ответ не найден</string>
+</resources>
